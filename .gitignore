@@ -1,4 +1,6 @@
 .venv/
 images/
+data/
+raw_images/
 arduino/build/
-*.bkp
+models/
